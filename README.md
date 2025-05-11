@@ -18,6 +18,10 @@ This project focuses on calibrating the Vasicek interest rate model using two st
 
 It is done during our second year at ENPC.
 
-Link for Latex code : https://www.overleaf.com/read/xjbmxcbvgvnf#9583d1
+Link to the LaTeX report : https://www.overleaf.com/read/xjbmxcbvgvnf#9583d1
 
 Link to the LaTeX code for the presentation of the professional development day on 04/11/2025 dedicated to the project : https://www.overleaf.com/read/xnzhrhfvxgkm#7870eb
+
+Link to the LaTeX poster :
+
+Link to the LaTeX presentation :
