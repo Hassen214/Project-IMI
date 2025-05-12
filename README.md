@@ -24,4 +24,4 @@ Link to the LaTeX code for the presentation of the professional development day 
 
 Link to the LaTeX poster : https://www.overleaf.com/read/kbsfsqfcrtxr#62776d
 
-Link to the LaTeX presentation :
+Link to the LaTeX presentation : https://www.overleaf.com/read/szxrxwhwycps#9777db
